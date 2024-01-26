@@ -13,4 +13,12 @@ The pre-trained model COCO SSD was used with Tensorflow to recognise objects in 
 
 # Run
 
-python 
+```
+python Object_Dectection.py
+```
+
+# Demo
+
+![Screenshot 2024-01-26 165046](https://github.com/xamaryadav/Realtime_Object_Detection/assets/93003722/44b4572b-aa53-4aec-831b-5a9e8d75269e)
+
+
